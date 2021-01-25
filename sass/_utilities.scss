@@ -1,4 +1,12 @@
+// margin bottom
 .mb-sm { margin-bottom: 2rem; }
 .mb-md { margin-bottom: 3rem; }
 .mb-lg { margin-bottom: 4rem; }
 .mb-hg { margin-bottom: 5rem; }
+
+// media queries
+$bp-largest: 75em;  // 1200/16 = 75em
+$bp-large: 62.5em;  // 1200/16 = 75em
+$bp-medium: 50em; // 800/16 = 50em
+$bp-small: 37.5em; // 600/16 = 50em
+
